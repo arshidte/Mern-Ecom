@@ -67,7 +67,7 @@ export const sliderItems = [
     },
     {
       id:7,
-      img:"https://rukminim1.flixcart.com/image/880/1056/kqjtd3k0/shoe/k/4/l/10-combo-2-9273-9373-world-wear-footwear-multicolor-original-imag4j6nhaz9affe.jpeg?q=50",
+      img:"https://m.media-amazon.com/images/I/71D9ImsvEtL._UL1500_.jpg",
     },
     {
       id:8,
